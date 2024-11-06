@@ -32,7 +32,7 @@ This project is about showcasing how the IDS and A* Algorithms solve the 8-puzzl
 
 <p align="center"> Input <br> <img align="center" src="https://github.com/joemar25/Files/blob/main/easy-in.PNG?raw=true"> </p>
 
-> Note: Any Numbers from 1-5 can be put in this input statement to choose which puzzle configuration to Solve.
+> Note: Any Numbers from 1-5 can be put in this input statement to choose which puzzle configuration to Solve. L=Go Left, R=Go Right, U=Go Up, D=Go Down. 
 
 <p align="center"> Generated Path for A* Search <br> <img align="center" src="https://github.com/joemar25/Files/blob/main/ai-mid-term-out.PNG?raw=true" > </p>
 
